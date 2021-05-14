@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+    background-color: rgb(152, 252, 252);
+
+   
+   
+}
+
+.main-container{
+   
+    text-align: center;
+}
+
+h3, p ,canvas {
+    
+
+}
+
+p{
+     color:red ;
+}
